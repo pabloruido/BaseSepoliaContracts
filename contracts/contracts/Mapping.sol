@@ -6,9 +6,9 @@ pragma solidity ^0.8.17;
  * @dev Contract to manage a list of approved music records and allow users to add them to their favorites
  */
  /** 
- * what is that
+ * what is that watttt sxDXD
  */
- 
+
 contract FavoriteRecords {
     // Mapping to store whether a record is approved
     mapping(string => bool) private approvedRecords;
